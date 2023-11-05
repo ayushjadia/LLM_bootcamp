@@ -1,2 +1,2 @@
 # LLM_bootcamp
-This model can be integrated with any project you can ask any question from any documents you will provide this model
+This model will answer any questions you ask from pdfs . This model uses RAG method therefore no need to remodel the LLM again therefore it is fast.
